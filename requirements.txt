@@ -1,0 +1,11 @@
+# Core
+tiktoken>=0.13.0                  # real tokenizer for token-budget enforcement
+langchain-text-splitters>=1.1.0  # language-aware syntactic chunking
+pydantic>=2.10                   # extraction JSON-schema validation
+httpx>=0.28                      # Ollama HTTP client
+
+# Optional LLM backends (only needed for the corresponding --backend)
+anthropic>=0.113.0               # --backend anthropic  (needs ANTHROPIC_API_KEY)
+openai>=2.0.0                    # --backend openai     (needs OPENAI_API_KEY)
+# Ollama backend needs a running local server (https://ollama.com), no pip dep.
+# Mock backend needs nothing beyond the core.

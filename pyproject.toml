@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "codebase-analyzer"
+version = "1.0.0"
+description = "LLM-driven structural knowledge extraction for codebases"
+requires-python = ">=3.10"
+dependencies = [
+    "tiktoken>=0.13.0",
+    "langchain-text-splitters>=1.1.0",
+    "pydantic>=2.10",
+    "httpx>=0.28",
+]
+
+[project.optional-dependencies]
+anthropic = ["anthropic>=0.113.0"]
+openai = ["openai>=2.0.0"]
+
+[project.scripts]
+codebase-analyzer = "codebase_analyzer.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,2668 @@
+{
+  "schema_version": "1.0",
+  "generated_by": "codebase-analyzer",
+  "repo": {
+    "root": "/Users/harisai/Projects/CodeBaseAnalyzer/repo",
+    "primary_language": "java",
+    "has_readme": true
+  },
+  "run": {
+    "backend": "mock",
+    "model": "mock",
+    "input_token_budget": 24911,
+    "elapsed_seconds": 1.2,
+    "chunks": 188,
+    "chunks_ok": 188,
+    "chunks_failed": 0
+  },
+  "parser_stats": {
+    "file_count": 188,
+    "total_types": 248,
+    "total_methods": 666,
+    "languages": {
+      "java": 188
+    }
+  },
+  "project_overview": {
+    "summary": "",
+    "architecture_style": "",
+    "key_modules": [],
+    "recurring_patterns": [],
+    "complexity_assessment": ""
+  },
+  "files": [
+    {
+      "rel_path": "src/main/java/com/example/app/SpringRestSakilaApplication.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/SpringRestSakilaApplication.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/constant/Category.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/constant/Category.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/constant/Country.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/constant/Country.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/constant/ErrorCode.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/constant/ErrorCode.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/constant/ErrorLevel.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/constant/ErrorLevel.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/constant/FilmRating.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/constant/FilmRating.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/constant/HalRelation.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/constant/HalRelation.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/constant/Language.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/constant/Language.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/constant/SpecialFeature.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/constant/SpecialFeature.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/domain/dto/ErrorResponseDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/domain/dto/ErrorResponseDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/domain/dto/FullName.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/domain/dto/FullName.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/domain/dto/NullCheckable.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/domain/dto/NullCheckable.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/domain/dto/Updatable.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/domain/dto/Updatable.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/domain/entity/FullName.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/domain/entity/FullName.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/domain/mapper/DoMapping.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/domain/mapper/DoMapping.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/domain/mapper/FullNameMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/domain/mapper/FullNameMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/domain/mapper/GenericMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/domain/mapper/GenericMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/domain/serializer/NullToEmptyStringSerializer.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/domain/serializer/NullToEmptyStringSerializer.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/exception/GlobalExceptionHandler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/exception/GlobalExceptionHandler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/exception/ResourceNotAvailableException.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/exception/ResourceNotAvailableException.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/exception/ResourceNotFoundException.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/exception/ResourceNotFoundException.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/filter/MdcLoggingFilter.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/filter/MdcLoggingFilter.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/security/JwtAuthenticationFilter.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/security/JwtAuthenticationFilter.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/security/JwtAuthenticationProvider.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/security/JwtAuthenticationProvider.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/security/JwtAuthenticationToken.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/security/JwtAuthenticationToken.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/security/JwtTokenProvider.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/security/JwtTokenProvider.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/common/util/ExpressionUtils.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/common/util/ExpressionUtils.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/config/AuthConfig.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/config/AuthConfig.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/config/LoggingFilterConfig.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/config/LoggingFilterConfig.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/config/PersistenceConfig.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/config/PersistenceConfig.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/config/RedisConfig.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/config/RedisConfig.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/config/SecurityFilterConfig.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/config/SecurityFilterConfig.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/auth/controller/LoginController.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/auth/controller/LoginController.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/auth/domain/converter/UserRoleConverter.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/auth/domain/converter/UserRoleConverter.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/auth/domain/dto/AuthorityDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/auth/domain/dto/AuthorityDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/auth/domain/entity/AuthorityEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/auth/domain/entity/AuthorityEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/auth/domain/vo/UserRole.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/auth/domain/vo/UserRole.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/auth/repository/AuthorityRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/auth/repository/AuthorityRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/auth/service/JpaUserDetailsService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/auth/service/JpaUserDetailsService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/auth/service/SecurityService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/auth/service/SecurityService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/assembler/ActorDetailsRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/assembler/ActorDetailsRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/assembler/ActorRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/assembler/ActorRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/assembler/FilmDetailsRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/assembler/FilmDetailsRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/assembler/FilmRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/assembler/FilmRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/controller/ActorController.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/controller/ActorController.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/controller/FilmController.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/controller/FilmController.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/converter/CategoryConverter.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/converter/CategoryConverter.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/converter/FilmRatingConverter.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/converter/FilmRatingConverter.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/converter/SpecialFeatureConverter.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/converter/SpecialFeatureConverter.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/dto/ActorDetailsDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/dto/ActorDetailsDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/dto/ActorDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/dto/ActorDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/dto/CategoryDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/dto/CategoryDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/dto/FilmDetailsDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/dto/FilmDetailsDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/dto/FilmDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/dto/FilmDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/entity/ActorEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/entity/ActorEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/entity/CategoryEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/entity/CategoryEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/entity/FilmActorEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/entity/FilmActorEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/entity/FilmActorEntityPK.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/entity/FilmActorEntityPK.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/entity/FilmCategoryEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/entity/FilmCategoryEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/entity/FilmCategoryEntityPK.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/entity/FilmCategoryEntityPK.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/entity/FilmEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/entity/FilmEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/entity/FilmTextEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/entity/FilmTextEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/mapper/ActorMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/mapper/ActorMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/mapper/FilmMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/mapper/FilmMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/domain/serializer/LocalDateYearSerializer.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/domain/serializer/LocalDateYearSerializer.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/ActorRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/ActorRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/CategoryRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/CategoryRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/FilmActorRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/FilmActorRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/FilmCategoryRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/FilmCategoryRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/FilmRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/FilmRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/FilmTextRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/FilmTextRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomActorRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomActorRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomActorRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomActorRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomCategoryRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomCategoryRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomCategoryRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomCategoryRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmActorRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmActorRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmActorRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmActorRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmCategoryRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmCategoryRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmCategoryRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmCategoryRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmTextRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmTextRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmTextRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/CustomFilmTextRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/repository/custom/RentalRateProjection.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/repository/custom/RentalRateProjection.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/service/ActorService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/service/ActorService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/service/ActorServiceImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/service/ActorServiceImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/service/FilmService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/service/FilmService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/catalog/service/FilmServiceImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/catalog/service/FilmServiceImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/assembler/CustomerDetailsRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/assembler/CustomerDetailsRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/assembler/CustomerRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/assembler/CustomerRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/controller/CustomerController.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/controller/CustomerController.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/domain/dto/CustomerDetailsDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/domain/dto/CustomerDetailsDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/domain/dto/CustomerDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/domain/dto/CustomerDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/domain/entity/CustomerEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/domain/entity/CustomerEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/domain/mapper/CustomerMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/domain/mapper/CustomerMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/repository/CustomerRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/repository/CustomerRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/repository/custom/CustomCustomerRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/repository/custom/CustomCustomerRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/repository/custom/CustomCustomerRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/repository/custom/CustomCustomerRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/service/CustomerService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/service/CustomerService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/customer/service/CustomerServiceImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/customer/service/CustomerServiceImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/assembler/AddressRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/assembler/AddressRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/assembler/CityRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/assembler/CityRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/controller/LocationController.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/controller/LocationController.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/converter/CountryConverter.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/converter/CountryConverter.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/converter/GeometryConverter.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/converter/GeometryConverter.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/converter/LanguageConverter.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/converter/LanguageConverter.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/dto/AddressDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/dto/AddressDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/dto/CityDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/dto/CityDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/dto/CountryDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/dto/CountryDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/dto/LanguageDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/dto/LanguageDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/entity/AddressEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/entity/AddressEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/entity/CityEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/entity/CityEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/entity/CountryEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/entity/CountryEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/entity/LanguageEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/entity/LanguageEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/mapper/AddressMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/mapper/AddressMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/domain/mapper/CityMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/domain/mapper/CityMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/AddressRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/AddressRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/CityRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/CityRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/CountryRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/CountryRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/LanguageRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/LanguageRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/custom/CustomAddressRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/custom/CustomAddressRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/custom/CustomAddressRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/custom/CustomAddressRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/custom/CustomCityRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/custom/CustomCityRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/custom/CustomCityRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/custom/CustomCityRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/custom/CustomCountryRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/custom/CustomCountryRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/custom/CustomCountryRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/custom/CustomCountryRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/custom/CustomLanguageRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/custom/CustomLanguageRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/repository/custom/CustomLanguageRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/repository/custom/CustomLanguageRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/service/LocationService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/service/LocationService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/location/service/LocationServiceImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/location/service/LocationServiceImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/payment/assembler/PaymentRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/payment/assembler/PaymentRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/payment/controller/PaymentController.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/payment/controller/PaymentController.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/payment/domain/dto/PaymentDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/payment/domain/dto/PaymentDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/payment/domain/entity/PaymentEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/payment/domain/entity/PaymentEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/payment/domain/mapper/PaymentMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/payment/domain/mapper/PaymentMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/payment/repository/PaymentRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/payment/repository/PaymentRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/payment/repository/custom/CustomPaymentRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/payment/repository/custom/CustomPaymentRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/payment/repository/custom/CustomPaymentRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/payment/repository/custom/CustomPaymentRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/payment/service/PaymentService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/payment/service/PaymentService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/payment/service/PaymentServiceImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/payment/service/PaymentServiceImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/assembler/RentalRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/assembler/RentalRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/controller/RentalController.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/controller/RentalController.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/domain/dto/RentalDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/domain/dto/RentalDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/domain/entity/RentalEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/domain/entity/RentalEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/domain/mapper/RentalMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/domain/mapper/RentalMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/domain/vo/RentalStatus.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/domain/vo/RentalStatus.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/repository/RentalRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/repository/RentalRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/repository/custom/CustomRentalRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/repository/custom/CustomRentalRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/repository/custom/CustomRentalRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/repository/custom/CustomRentalRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/service/RentalService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/service/RentalService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/rental/service/RentalServiceImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/rental/service/RentalServiceImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/assembler/StaffDetailsRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/assembler/StaffDetailsRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/assembler/StaffRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/assembler/StaffRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/controller/StaffController.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/controller/StaffController.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/domain/dto/StaffDetailsDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/domain/dto/StaffDetailsDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/domain/dto/StaffDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/domain/dto/StaffDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/domain/entity/StaffEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/domain/entity/StaffEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/domain/mapper/StaffMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/domain/mapper/StaffMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/repository/StaffRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/repository/StaffRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/repository/custom/CustomStaffRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/repository/custom/CustomStaffRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/repository/custom/CustomStaffRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/repository/custom/CustomStaffRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/service/StaffService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/service/StaffService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/staff/service/StaffServiceImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/staff/service/StaffServiceImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/assembler/CategorySalesRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/assembler/CategorySalesRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/assembler/StoreDetailsRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/assembler/StoreDetailsRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/assembler/StoreRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/assembler/StoreRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/assembler/StoreSalesRepresentationModelAssembler.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/assembler/StoreSalesRepresentationModelAssembler.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/controller/ReportController.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/controller/ReportController.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/controller/StoreController.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/controller/StoreController.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/domain/dto/CategorySalesDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/domain/dto/CategorySalesDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/domain/dto/InventoryDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/domain/dto/InventoryDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/domain/dto/StoreDetailsDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/domain/dto/StoreDetailsDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/domain/dto/StoreDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/domain/dto/StoreDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/domain/dto/StoreSalesDto.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/domain/dto/StoreSalesDto.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/domain/entity/InventoryEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/domain/entity/InventoryEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/domain/entity/StoreEntity.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/domain/entity/StoreEntity.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/domain/mapper/InventoryMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/domain/mapper/InventoryMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/domain/mapper/StoreMapper.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/domain/mapper/StoreMapper.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/repository/InventoryRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/repository/InventoryRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/repository/StoreRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/repository/StoreRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/repository/custom/CustomInventoryRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/repository/custom/CustomInventoryRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/repository/custom/CustomInventoryRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/repository/custom/CustomInventoryRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/repository/custom/CustomStoreRepository.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/repository/custom/CustomStoreRepository.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/repository/custom/CustomStoreRepositoryImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/repository/custom/CustomStoreRepositoryImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/service/ReportService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/service/ReportService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/service/ReportServiceImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/service/ReportServiceImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/service/StoreService.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/service/StoreService.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    },
+    {
+      "rel_path": "src/main/java/com/example/app/services/store/service/StoreServiceImpl.java",
+      "extractions": [
+        {
+          "purpose": "[mock] stub summary for src/main/java/com/example/app/services/store/service/StoreServiceImpl.java",
+          "methods": [],
+          "dependencies": [],
+          "complexity_notes": "[mock] not analyzed",
+          "noteworthy": []
+        }
+      ],
+      "ok": true,
+      "errors": []
+    }
+  ],
+  "errors": []
+}
